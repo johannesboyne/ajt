@@ -1,0 +1,12 @@
+USAGE
+    ajt -t templateDirectory -o outputFile.js
+
+OPTIONS
+    -t  templateDirectory (multiple are possible) (optional)
+        e.g: ajt -t tmpl/sub1 -t tmpl/sub2 -o outputFile.js
+
+    -o  outputfile (optional)
+
+    -v  show version
+
+    -h  show this helpfile

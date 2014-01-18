@@ -1,0 +1,21 @@
+{
+  "name": "ajt",
+  "version": "0.0.1",
+  "description": "minimal ajax json template lib",
+  "main": "index.js",
+  "bin": {
+    "ajt": "index.js"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "dependencies": {
+    "templatizer": "0.2.8"
+  },
+  "author": "Johannes Boyne <johannes@boyne.de>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johannesboyne/ajt.git"
+  },
+  "license": "MIT"
+}
