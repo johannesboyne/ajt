@@ -21,6 +21,10 @@ That it, simple and intuitiv!
 
 `ajt` is looking for three parameters, the `request URL`, the `templateID` and the `callback`. Everything else is done by `ajt.js`.
 
+## Installation
+
+`npm install -g ajt`
+
 ## Bundling
 
 You can eitherway bundle it by using the node module, or the command line:
