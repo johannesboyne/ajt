@@ -15,7 +15,7 @@ h2= value1
 code= value2
 ```
 
-That it, simple and intuitiv!
+That's it, simple and intuitiv!
 
 ## Documentation
 
